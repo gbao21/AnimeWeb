@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CommentsTest]">
+  <test thread-count="5" name="CommentsTest(failed)">
+    <parameter name="customer_id" value="2"/>
+    <parameter name="video_id" value="2"/>
+    <classes>
+      <class name="AdvanceTesting.CommentTest">
+        <methods>
+          <include name="farewell"/>
+          <include name="welcomeToLogin"/>
+          <include name="case_comment_2" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- AdvanceTesting.CommentTest -->
+    </classes>
+  </test> <!-- CommentsTest(failed) -->
+</suite> <!-- Failed suite [CommentsTest] -->

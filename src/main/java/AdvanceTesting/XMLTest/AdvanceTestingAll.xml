@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="main-suite" parallel="false">
+	<suite-file path="LoginTestXML.xml"/>
+	<suite-file path="RegisterTestXML.xml"/>
+	<suite-file path="ForgotTestXML.xml"/>
+</suite>
+	

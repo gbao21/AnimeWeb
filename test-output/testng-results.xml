@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-07T18:21:00 ICT" name="CommentsTest" finished-at="2023-04-07T18:21:00 ICT" duration-ms="140">
+    <groups>
+    </groups>
+    <test started-at="2023-04-07T18:21:00 ICT" name="CommentsTest" finished-at="2023-04-07T18:21:00 ICT" duration-ms="140">
+      <class name="AdvanceTesting.CommentTest">
+        <test-method is-config="true" signature="welcomeToLogin()[pri:0, instance:AdvanceTesting.CommentTest@217235f5]" started-at="2023-04-07T18:21:00 ICT" name="welcomeToLogin" finished-at="2023-04-07T18:21:00 ICT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomeToLogin -->
+        <test-method signature="case_comment_1()[pri:0, instance:AdvanceTesting.CommentTest@217235f5]" started-at="2023-04-07T18:21:00 ICT" name="case_comment_1" finished-at="2023-04-07T18:21:00 ICT" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case_comment_1 -->
+        <test-method signature="case_comment_2(java.lang.String,java.lang.String)[pri:0, instance:AdvanceTesting.CommentTest@217235f5]" started-at="2023-04-07T18:21:00 ICT" name="case_comment_2" finished-at="2023-04-07T18:21:00 ICT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case_comment_2 -->
+        <test-method signature="case_comment_3()[pri:0, instance:AdvanceTesting.CommentTest@217235f5]" started-at="2023-04-07T18:21:00 ICT" name="case_comment_3" finished-at="2023-04-07T18:21:00 ICT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case_comment_3 -->
+        <test-method is-config="true" signature="farewell()[pri:0, instance:AdvanceTesting.CommentTest@217235f5]" started-at="2023-04-07T18:21:00 ICT" name="farewell" finished-at="2023-04-07T18:21:00 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- farewell -->
+      </class> <!-- AdvanceTesting.CommentTest -->
+    </test> <!-- CommentsTest -->
+  </suite> <!-- CommentsTest -->
+</testng-results>

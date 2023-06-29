@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Features Register">
+    <test name="Register Test">
+
+        <parameter name="email" value="teo2@example.com"/>
+        <parameter name="password" value="password123"/>
+        <parameter name="username" value="teo"/>
+        <classes>
+            <class name="AdvanceTesting.RegisterTest"/>
+        </classes>
+    </test>
+</suite>

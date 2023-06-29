@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CommentsTest">
+	<test name ="CommentsTest">
+			 <parameter name="video_id" value="2"/>
+			 <parameter name="customer_id" value="2"/>
+
+		     <classes>
+            <class name="AdvanceTesting.CommentTest"/>
+        </classes>
+	</test>
+</suite>

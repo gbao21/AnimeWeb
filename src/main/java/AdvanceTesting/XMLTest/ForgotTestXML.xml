@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Features Forgot">
+    <test name="Forgot Test">
+
+        <parameter name="email" value="kieuanhvan6gmail.com"/>
+        <classes>
+            <class name="AdvanceTesting.ForgotPasswordTest"/>
+        </classes>
+    </test>
+</suite>
